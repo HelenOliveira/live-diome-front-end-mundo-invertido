@@ -67,7 +67,7 @@
   body {
     background: var(--page-background);
   }
-  
+
   h1,
   h2,
   h3 {
@@ -89,6 +89,7 @@
   label {
     font-family: "Libre Baskerville", serif;
   }
+
   input,
   textarea {
     border: 2px solid var(--primary-color-contrast);
@@ -122,6 +123,8 @@
     transition: background 1s;
     
   }
+  /*** HEADER STYLES ***/
+
   header {
     background-color: var(--header-background-color);
     min-height: 850px;
@@ -180,7 +183,8 @@
   height: 100%;
   background-color: var(--character-top-image-color);
   bottom: -3px;
-  mask:var(--character-top-image-src) bottom / contain no-repeat;
+
+  mask: var(--character-top-image-src) bottom / contain no-repeat;
   -webkit-mask: var(--character-top-image-src) bottom / 100% no-repeat;
 }
 
