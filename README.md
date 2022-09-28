@@ -1,7 +1,7 @@
 # Bem vindo ao projeto Mundo Invertido
 
-Essse projeto foi desenvolvido pela Dio.me, uma plataforma de cursos online.
-Onde foi ministrado 3 Lives durante 3 dias por com a duração méida de 3 horas,  ofertando conhecimentos de HTLM5 e CSS.
+Esse projeto foi desenvolvido pela Dio.me, uma plataforma de cursos online.
+Onde foi ministrado 3 Lives durante 3 dias com a duração méida de 3 horas,  ofertando conhecimentos de HTLM5 e CSS.
 
 Neste trabalho construimos as telas baseadas na Série Stranger Things desenvolvidas em HTML, CSS com animações em JavaScript.
 
@@ -28,7 +28,7 @@ Neste trabalho construimos as telas baseadas na Série Stranger Things desenvolv
 
  Segundo dia aula inserindo o JavaScript e React no nas telas, inserindo dados para serem usados no formulário.
 
-* Inpeção de Elementos
+* Inspeção de Elementos
 * Uso do Banco de Dados FireBase
 * Flexbox
 * Animações
